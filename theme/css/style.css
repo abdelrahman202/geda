@@ -8260,6 +8260,7 @@ header .logo{
 	position:fixed;
 	top:0;
 	left:0;
+	z-index: 9999999;
 }
 
 .is-fixed .header-nav .nav > li > a {
